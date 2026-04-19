@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Brooklyn Park, Minnesota. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Brooklyn Park, Minnesota, US",
-  "export_job_id": "4d992657-53bb-4466-899a-bab141fb10fb",
+  "export_job_id": "8471306b-e086-4817-bcc7-4f0b631f442a",
   "github_org": "Beamstation-Datasets",
   "id_short": 429668,
   "location_name": "Brooklyn Park",
@@ -18,5 +18,5 @@
   "sample_sha256": "6c9271341b82b743a7d838ea1fc4cf7b9e4ff9bda754bbc428a1761ed47e00b7",
   "sample_size_bytes": 54423,
   "total_records": 100,
-  "updated_at": "2026-04-09T13:31:32.619825+00:00"
+  "updated_at": "2026-04-16T13:54:46.264999+00:00"
 }
