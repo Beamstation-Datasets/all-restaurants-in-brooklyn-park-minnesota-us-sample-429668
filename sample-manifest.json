@@ -1,12 +1,12 @@
 {
-  "export_job_id": "76a6a648-beb9-4f76-b70d-872cf8bc7ea2",
+  "export_job_id": "2321c19d-bc84-4fb7-82a4-fb8aef9da3eb",
   "id_short": 429668,
-  "published_at": "2026-04-23T19:25:17Z",
+  "published_at": "2026-04-30T19:11:42Z",
   "repo_name": "all-restaurants-in-brooklyn-park-minnesota-us-sample-429668",
   "sample_asset_name": "beamstation_429668_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/429668/beamstation_429668_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "1a41b36fa1a6d86db2ff13320eec978c038d8fffe56c33fcead0594bcd92765b",
-  "sample_size_bytes": 21682,
-  "total_records": 26
+  "sample_records": 10,
+  "sample_sha256": "935b8ae7e9aa02df2e087db2dcd7b71e8d653400716317efef7687aee0afc4ad",
+  "sample_size_bytes": 51286,
+  "total_records": 109
 }
