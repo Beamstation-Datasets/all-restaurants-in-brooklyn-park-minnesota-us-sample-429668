@@ -1,6 +1,6 @@
 # All Restaurants in Brooklyn Park, Minnesota, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `429668` |
 | Location | Brooklyn Park |
 | Category | Restaurants |
-| Full dataset size | 26 records |
-| Free sample size | 2 records (7.69%) |
-| Last export | 2026-04-23T12:37:59.722172+00:00 |
+| Full dataset size | 109 records |
+| Free sample size | 10 records (9.17%) |
+| Last export | 2026-04-30T13:02:05.193960+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-brooklyn-park-minnesota-us-sample-429668/releases/download/sample-latest/beamstation_429668_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
